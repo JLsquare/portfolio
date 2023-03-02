@@ -1,0 +1,305 @@
+{
+  "projects": [
+    {
+      "title": "Portfolio",
+      "category": [
+        "Web",
+        "School",
+        "2023"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/portfolio.gif",
+      "tools": [
+        "HTML",
+        "Tailwind CSS",
+        "JS",
+        "NodeJS"
+      ]
+    },
+    {
+      "title": "The bikes of Nantes",
+      "category": [
+        "School",
+        "2023"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/bikenantes.png",
+      "tools": [
+        "Java",
+        "JavaFx",
+        "MySQL",
+        "Python"
+      ]
+    },
+    {
+      "title": "Galaxy Simulator",
+      "category": [
+        "Other",
+        "2023"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/galaxy.gif",
+      "tools": [
+        "Rust",
+        "Bevy"
+      ]
+    },
+    {
+      "title": "Grundy",
+      "category": [
+        "School",
+        "2022"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/grundy.gif",
+      "tools": [
+        "Java"
+      ]
+    },
+    {
+      "title": "SimCoBot",
+      "category": [
+        "Other",
+        "2023"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/simcobot.gif",
+      "tools": [
+        "JS",
+        "NodeJS",
+        "DiscordJS",
+        "ChartJS"
+      ]
+    },
+    {
+      "title": "Easy Place",
+      "category": [
+        "Web",
+        "2022"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/easyplace.png",
+      "tools": [
+        "HTML",
+        "CSS",
+        "JS",
+        "NodeJS",
+        "WebSocket"
+      ]
+    },
+    {
+      "title": "Babyfoot.io",
+      "category": [
+        "Web",
+        "Game",
+        "2022"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/babyfootio.gif",
+      "tools": [
+        "HTML",
+        "ThreeJS",
+        "JS",
+        "NodeJS",
+        "WebSocket",
+        "Blender"
+      ]
+    },
+    {
+      "title": "SportTrack",
+      "category": [
+        "School",
+        "Web",
+        "2022"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/sporttrack.png",
+      "tools": [
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "title": "Energy Tycoon",
+      "category": [
+        "Game",
+        "2022"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/energytycoon.gif",
+      "tools": [
+        "C#",
+        "Unity",
+        "Asesprite"
+      ]
+    },
+    {
+      "title": "Game Of Life",
+      "category": [
+        "Other",
+        "2022"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/gameoflife.gif",
+      "tools": [
+        "Rust",
+        "Winit"
+      ]
+    },
+    {
+      "title": "Speed Devour",
+      "category": [
+        "Game",
+        "2021"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/speeddevour.gif",
+      "tools": [
+        "C#",
+        "Unity",
+        "Blender"
+      ]
+    },
+    {
+      "title": "Glide With Holes",
+      "category": [
+        "Game",
+        "2020"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.<br> Aliquet lectus proin nibh nisl condimentum id. Massa eget egestas purus viverra accumsan in nisl. Praesent semper feugiat nibh sed pulvinar.",
+      "image": "assets/glidewithholes.gif",
+      "tools": [
+        "C#",
+        "Unity",
+        "Blender"
+      ]
+    }
+  ],
+  "skills": {
+    "softwareDevelopment": [
+      {
+        "name": "Java",
+        "image": "assets/java.png"
+      },
+      {
+        "name": "C",
+        "image": "assets/c.png"
+      },
+      {
+        "name": "C#",
+        "image": "assets/csharp.png"
+      },
+      {
+        "name": "C++",
+        "image": "assets/cpp.png"
+      },
+      {
+        "name": "Rust",
+        "image": "assets/rust.png"
+      },
+      {
+        "name": "Python",
+        "image": "assets/python.png"
+      },
+      {
+        "name": "SQL",
+        "image": "assets/sql.png"
+      },
+      {
+        "name": "Bash",
+        "image": "assets/bash.png"
+      },
+      {
+        "name": "Git",
+        "image": "assets/git.png"
+      }
+    ],
+    "computerGraphics": [
+      {
+        "name": "OpenGL",
+        "image": "assets/opengl.png"
+      },
+      {
+        "name": "Bevy",
+        "image": "assets/bevy.png"
+      },
+      {
+        "name": "Unity",
+        "image": "assets/unity.png"
+      },
+      {
+        "name": "ThreeJS",
+        "image": "assets/threejs.png"
+      },
+      {
+        "name": "Blender",
+        "image": "assets/blender.png"
+      },
+      {
+        "name": "Asesprite",
+        "image": "assets/asesprite.png"
+      }
+    ],
+    "frontEnd": [
+      {
+        "name": "HTML",
+        "image": "assets/html.png"
+      },
+      {
+        "name": "CSS",
+        "image": "assets/css.png"
+      },
+      {
+        "name": "Tailwind",
+        "image": "assets/tailwind.png"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "assets/bootstrap.png"
+      },
+      {
+        "name": "JS",
+        "image": "assets/javascript.png"
+      },
+      {
+        "name": "ThreeJS",
+        "image": "assets/threejs.png"
+      },
+      {
+        "name": "ChartJS",
+        "image": "assets/chartjs.png"
+      },
+      {
+        "name": "Git",
+        "image": "assets/git.png"
+      }
+    ],
+    "backEnd": [
+      {
+        "name": "NodeJS",
+        "image": "assets/nodejs.png"
+      },
+      {
+        "name": "ExpressJS",
+        "image": "assets/express.png"
+      },
+      {
+        "name": "SQL",
+        "image": "assets/sql.png"
+      },
+      {
+        "name": "WebSocket",
+        "image": "assets/websocket.png"
+      },
+      {
+        "name": "DiscordJS",
+        "image": "assets/discordjs.png"
+      },
+      {
+        "name": "Git",
+        "image": "assets/git.png"
+      }
+    ]
+  }
+}
