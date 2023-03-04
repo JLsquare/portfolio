@@ -7,7 +7,7 @@
         "School",
         "2023"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is my portfolio website. It is a single-page website that I built from scratch using HTML, TailwindCSS, and JavaScript. I created it to display my different projects and skills. It is designed to retrieve my projects from a JSON file.",
       "image": "assets/portfolio.gif",
       "tools": [
         "HTML",
@@ -22,7 +22,7 @@
         "School",
         "2023"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "Soon, this is my final year project for my school. It is a JavaFx application that allow Nantes Métropole to get statistics about the bikes of Nantes. It has a SQL database and can be alimented with csv files.",
       "image": "assets/bikenantes.png",
       "tools": [
         "Java",
@@ -37,11 +37,23 @@
         "Other",
         "2023"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is a simple simulator of a galaxy. It is a Rust application that uses the Bevy engine. It is a simple project that I made to learn Rust and Bevy. I will accelerate the simulation in the future with the GPU.",
       "image": "assets/galaxy.gif",
       "tools": [
         "Rust",
         "Bevy"
+      ]
+    },
+    {
+      "title": "CTF",
+      "category": [
+        "Other",
+        "2022"
+      ],
+      "description": "In december, I participated in a CTF (Capture The Flag) competition. I solved almost all the challenges and got the first place. I will post the write-ups of the challenges in the future.",
+      "image": "assets/ctf.png",
+      "tools": [
+        "Python", "JS", "C++", "Assembly", "Cyber-security"
       ]
     },
     {
@@ -50,7 +62,7 @@
         "School",
         "2022"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is a project that I made for my school. It is a Java application that allows to play the game of Grundy. It has a bot that can play against you, the complexity is the exponential complexity of the game that i solved with the Sprague-Grundy theorem, allowing thousands of matches to be used.",
       "image": "assets/grundy.gif",
       "tools": [
         "Java"
@@ -62,7 +74,7 @@
         "Other",
         "2023"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is a Discord bot that I made to help the players of the game SimCompanies. It allow the players to get information about companies, the market, and the economy to help them to make the best decisions",
       "image": "assets/simcobot.gif",
       "tools": [
         "JS",
@@ -77,7 +89,7 @@
         "Web",
         "2022"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "A tiny website that I made to learn NodeJS and WebSockets. It it a remake of the Reddit Place with the support of multiples rooms totally synchronized. One more project to continue in the future with more features like a front page",
       "image": "assets/easyplace.png",
       "tools": [
         "HTML",
@@ -94,7 +106,7 @@
         "Game",
         "2022"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is a tiny project that I made to learn ThreeJS and WebSockets. It is a multiplayer game that I made with my friends for fun. I will soon add a matchmaking system and other features.",
       "image": "assets/babyfootio.gif",
       "tools": [
         "HTML",
@@ -112,7 +124,7 @@
         "Web",
         "2022"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is a website that I made for my school project. For now It's juste a static page. It will be continued the next year to add more features. It will be a website that allow the users to track their sport activities.",
       "image": "assets/sporttrack.png",
       "tools": [
         "HTML",
@@ -126,7 +138,7 @@
         "Game",
         "2022"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is a game that I made in my free time. The islands are procedurally generated and the game is a mix between a tycoon and a strategy game. I made all the assets and code of the game. I will continue to add features in the future.",
       "image": "assets/energytycoon.gif",
       "tools": [
         "C#",
@@ -140,7 +152,7 @@
         "Other",
         "2022"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is a simple implementation of the Game Of Life. It is a Rust application that uses the Winit library. It is a simple project that I made to learn Rust and Winit.",
       "image": "assets/gameoflife.gif",
       "tools": [
         "Rust",
@@ -153,7 +165,7 @@
         "Game",
         "2021"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "This is a Unity project that I made to learn about FPS mechanics, the new Unity multiplayer system and procedural levels. It is a simple game that I made in a few days.",
       "image": "assets/speeddevour.gif",
       "tools": [
         "C#",
@@ -167,7 +179,7 @@
         "Game",
         "2020"
       ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus.",
+      "description": "One of my first game. I made it for a game jam. The goal is to use the black holes to accelerate and finish the level the fastest. I made all the assets and code of the game.",
       "image": "assets/glidewithholes.gif",
       "tools": [
         "C#",

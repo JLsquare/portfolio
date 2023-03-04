@@ -565,12 +565,12 @@ html {
   margin: 6rem;
 }
 
-.m-8 {
-  margin: 2rem;
-}
-
 .m-4 {
   margin: 1rem;
+}
+
+.m-8 {
+  margin: 2rem;
 }
 
 .-mr-8 {
@@ -677,6 +677,10 @@ html {
   max-height: 100vh;
 }
 
+.w-24 {
+  width: 6rem;
+}
+
 .w-32 {
   width: 8rem;
 }
@@ -687,10 +691,6 @@ html {
 
 .w-full {
   width: 100%;
-}
-
-.w-24 {
-  width: 6rem;
 }
 
 .max-w-2xl {

@@ -190,12 +190,12 @@ class Project {
     left(){
         return `
         <div class="project school web flex justify-between m-16 mt-48">
-            <div class="flex flex-col m-8 mr-16">
+            <div class="flex flex-col m-8 mt-4 mr-16">
                 <span class="text-cyan-400 text-xl text-left ml-4">${this.category.join(" • ")}</span>
                 <span class="text-white text-3xl mt-4 text-left ml-4">${this.title}</span>
                 <div class="bg-slate-900 shadow-[0_0_64px_rgb(0,0,0,0.4)] rounded-3xl p-4 mt-4">
                     <p class="z-10 text-slate-400 text-2xl text-left max-w-2xl">
-                        ${this.description}.
+                        ${this.description}
                     </p>
                 </div>
                 <span class="text-cyan-400 text-2xl mt-4 text-left ml-4">${this.tools.join(" • ")}</span>
@@ -209,12 +209,12 @@ class Project {
         return `
         <div class="project school flex justify-between m-16 mt-48">
             <img class="rounded-3xl shadow-[0_0_64px_rgb(0,0,0,0.4)] hover:shadow-[0_0_64px_rgb(0,0,0,0.6)] max-h-96" src="${this.image}">
-            <div class="flex flex-col m-8 ml-16">
+            <div class="flex flex-col m-8 mt-4 ml-16">
                 <span class="text-cyan-400 text-xl text-right mr-4">${this.category.join(" • ")}</span>
                 <span class="text-white text-3xl mt-4 text-right mr-4">${this.title}</span>
                 <div class="bg-slate-900 shadow-[0_0_64px_rgb(0,0,0,0.4)] rounded-3xl p-4 mt-4">
                     <p class="z-10 text-slate-400 text-2xl text-right max-w-2xl">
-                        ${this.description}.
+                        ${this.description}
                     </p>
                 </div>
                 <span class="text-cyan-400 text-2xl mt-4 text-right mr-4">${this.tools.join(" • ")}</span>
