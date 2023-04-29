@@ -19,26 +19,33 @@ git clone https://github.com/JLsquare/Portfolio.git
 2.  Navigate to the project folder:
 
 ```sh
-cd portfolio
+cd Portfolio
 ```
 
 3.  Install the required dependencies:
 
 ```sh
+cd client
+npm install
+```
+
+```sh
+cd server
 npm install
 ```
 
 ### Configuration
 
-1.  Open the `public/config.json` file and update the information as needed. The current config.json is my example.
+1.  Open the `server/public/config.json` file and update the information as needed. The current config.json is my example.
 
-2.  Add any images related to your projects or other visual content to the `public/images/` directory.
+2.  Add any images related to your projects or other visual content to the `server/public/images/` directory.
 
 ### Running the Application
 
 1.  Start the Node.js Express server:
 
 ```sh
+cd server
 npm run server
 ```
 
