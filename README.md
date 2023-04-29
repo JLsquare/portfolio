@@ -34,6 +34,12 @@ cd server
 npm install
 ```
 
+4.  Build the website:
+
+```sh
+npm run build
+```
+
 ### Configuration
 
 1.  Open the `server/public/config.json` file and update the information as needed. The current config.json is my example.
