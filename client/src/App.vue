@@ -41,7 +41,8 @@ export default {
     },
     methods: {
         fetchConfig() {
-            fetch("http://localhost:3000/config.json")
+            const url = window.location.href;
+            fetch(url + "config.json")
                 .then(response => response.json())
                 .then(data => {
                     console.log(data);
