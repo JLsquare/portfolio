@@ -2,6 +2,10 @@
 
 This is a fully customizable portfolio website built using Vue.js and Node.js Express. You can easily configure your personal information, projects, experiences, skills, and more in a `config.json` file. The portfolio also supports image uploads for showcasing your work.
 
+## Demo
+
+A demo (my portfolio) is available here : [Demo JLsquare](http://www.jlsquare.fr/)
+
 ## Getting Started
 
 ### Prerequisites
