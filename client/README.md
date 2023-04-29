@@ -1,29 +1,53 @@
-# portfolio-vue
+# My Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a fully customizable portfolio website built using Vue.js and Node.js Express. You can easily configure your personal information, projects, experiences, skills, and more in a `config.json` file. The portfolio also supports image uploads for showcasing your work.
 
-## Recommended IDE Setup
+## Getting Started
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Prerequisites
 
-## Customize configuration
+-   Node.js (>=18.x) (didn't tested previous versions)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### Installation
 
-## Project Setup
+1.  Clone this repository:
+
+```sh
+git clone https://github.com/JLsquare/Portfolio.git
+```
+
+2.  Navigate to the project folder:
+
+```sh
+cd portfolio
+```
+
+3.  Install the required dependencies:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Configuration
+
+1.  Open the `public/config.json` file and update the information as needed. The current config.json is my example.
+
+2.  Add any images related to your projects or other visual content to the `public/images/` directory.
+
+### Running the Application
+
+1.  Start the Node.js Express server:
 
 ```sh
-npm run dev
+npm run server
 ```
 
-### Compile and Minify for Production
+2.  Open your browser and navigate to `http://localhost:3000` (or the port specified in your configuration) to view your portfolio.
 
-```sh
-npm run build
-```
+## Customization
+
+You can easily customize the appearance, layout, and structure of the portfolio by updating the Vue.js components and styles located in the `src` directory.
+
+## Contact
+
+Jean-Loup Mellion - [jeanloup.mellion@proton.me](mailto:jeanloup.mellion@proton.me) - [GitHub](https://github.com/JLsquare)
