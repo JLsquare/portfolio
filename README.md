@@ -53,7 +53,7 @@ npm run build
 
 ```sh
 cd server
-npm run server
+npm start
 ```
 
 2.  Open your browser and navigate to `http://localhost:3000` (or the port specified in your configuration) to view your portfolio.
