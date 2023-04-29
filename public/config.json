@@ -1,0 +1,421 @@
+{
+  "infos": {
+    "name": "Jean-Loup Mellion.",
+    "title": "I'm an IT Student.",
+    "description": {
+      "firstPart": "I'm an 18-year-old French student at the University Institute of Technology",
+      "linkText": "IUT Vannes",
+      "link": "https://www.iutvannes.fr/",
+      "secondPart": "and I study computer science. I'm open to any opportunity."
+    },
+    "image": "images/others/picture.jpg",
+    "about": "I am a computer science student at IUT Vannes, passionate about various fields in computer science, including game development, web development, simulations, and cybersecurity. I have acquired a strong knowledge base through my education and self-taught experiments. Currently, I am looking for an apprenticeship to further enhance my skills and contribute to a dynamic company."
+  },
+  "projectButtons": [
+    {
+      "mode": "All",
+      "label": "All"
+    },
+    {
+      "mode": "Web",
+      "label": "Web"
+    },
+    {
+      "mode": "Game",
+      "label": "Games"
+    },
+    {
+      "mode": "School",
+      "label": "School"
+    },
+    {
+      "mode": "Other",
+      "label": "Others"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Voxel Engine",
+      "category": [
+        "Game",
+        "Other",
+        "2023"
+      ],
+      "description": "This is a voxel engine that I made to learn rust and voxel engines. It is a simple engine that can render a world with a chunk system. It use a DDA algorithm to render the voxels (no bevy). I'm currently working on porting the rendering to the GPU.",
+      "image": "images/projects/voxel.gif",
+      "tools": [
+        "Rust"
+      ]
+    },
+    {
+      "title": "Portfolio",
+      "category": [
+        "Web",
+        "School",
+        "2023"
+      ],
+      "description": "This is my portfolio website. It is a single-page website that I built from scratch using HTML, TailwindCSS, and JavaScript. I made it to be fully customizable with a JSON file. I ported it recently to VueJS to make it easier to maintain.",
+      "image": "images/projects/portfolio.gif",
+      "tools": [
+        "VueJS",
+        "Tailwind CSS",
+        "NodeJS"
+      ]
+    },
+    {
+      "title": "Chat App",
+      "category": [
+        "Web",
+        "2023"
+      ],
+      "description": "This is a chat app that i'm currently working on with a friend. It doesn't have a name for now. It is inspired by Discord and Miro. It is a VueJS application with a NodeJS and Rust backend. I work on it when I have some free time.",
+      "image": "images/projects/chatapp.gif",
+      "tools": [
+        "VueJS",
+        "Tailwind CSS",
+        "NodeJS",
+        "Rust"
+      ]
+    },
+    {
+      "title": "The bikes of Nantes",
+      "category": [
+        "School",
+        "2023"
+      ],
+      "description": "Soon, this is my final year project for my school. It is a JavaFx application that allow Nantes Métropole to get statistics about the bikes of Nantes. It has a SQL database and can be alimented with csv files.",
+      "image": "images/projects/bikenantes.png",
+      "tools": [
+        "Java",
+        "JavaFx",
+        "MySQL",
+        "Python"
+      ]
+    },
+    {
+      "title": "Galaxy Simulator",
+      "category": [
+        "Other",
+        "2023"
+      ],
+      "description": "This is a simple simulator of a galaxy. It is a Rust application that uses the Bevy engine. It is a simple project that I made to learn Rust and Bevy. I ported it to Unity to use compute shaders",
+      "image": "images/projects/galaxy.gif",
+      "tools": [
+        "Rust",
+        "Bevy",
+        "Unity"
+      ]
+    },
+    {
+      "title": "CTF",
+      "category": [
+        "Other",
+        "2022"
+      ],
+      "description": "In december, I participated in a CTF (Capture The Flag) competition. I solved almost all the challenges and got the first place. I will post the write-ups of the challenges in the future.",
+      "image": "images/projects/ctf.png",
+      "tools": [
+        "Python", "JS", "C++", "Assembly", "Cyber-security"
+      ]
+    },
+    {
+      "title": "Grundy",
+      "category": [
+        "School",
+        "2022"
+      ],
+      "description": "This is a project that I made for my school. It is a Java application that allows to play the game of Grundy. It has a bot that can play against you, the complexity is the exponential complexity of the game that i solved with the Sprague-Grundy theorem, allowing thousands of matches to be used.",
+      "image": "images/projects/grundy.gif",
+      "tools": [
+        "Java"
+      ]
+    },
+    {
+      "title": "SimCoBot",
+      "category": [
+        "Other",
+        "2023"
+      ],
+      "description": "This is a Discord bot that I made to help the players of the game SimCompanies. It allow the players to get information about companies, the market, and the economy to help them to make the best decisions",
+      "image": "images/projects/simcobot.gif",
+      "tools": [
+        "JS",
+        "NodeJS",
+        "DiscordJS",
+        "ChartJS"
+      ]
+    },
+    {
+      "title": "Easy Place",
+      "category": [
+        "Web",
+        "2022"
+      ],
+      "description": "A tiny website that I made to learn NodeJS and WebSockets. It it a remake of the Reddit Place with the support of multiples rooms totally synchronized. One more project to continue in the future with more features like a front page",
+      "image": "images/projects/easyplace.png",
+      "tools": [
+        "HTML",
+        "CSS",
+        "JS",
+        "NodeJS",
+        "WebSocket"
+      ]
+    },
+    {
+      "title": "Babyfoot.io",
+      "category": [
+        "Web",
+        "Game",
+        "2022"
+      ],
+      "description": "This is a tiny project that I made to learn ThreeJS and WebSockets. It is a multiplayer game that I made with my friends for fun. I will soon add a matchmaking system and other features.",
+      "image": "images/projects/babyfootio.gif",
+      "tools": [
+        "HTML",
+        "ThreeJS",
+        "JS",
+        "NodeJS",
+        "WebSocket",
+        "Blender"
+      ]
+    },
+    {
+      "title": "SportTrack",
+      "category": [
+        "School",
+        "Web",
+        "2022"
+      ],
+      "description": "This is a website that I made for my school project. For now It's juste a static page. It will be continued the next year to add more features. It will be a website that allow the users to track their sport activities.",
+      "image": "images/projects/sporttrack.png",
+      "tools": [
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "title": "Energy Tycoon",
+      "category": [
+        "Game",
+        "2022"
+      ],
+      "description": "This is a game that I made in my free time. The islands are procedurally generated and the game is a mix between a tycoon and a strategy game. I made all the assets and code of the game. I will continue to add features in the future.",
+      "image": "images/projects/energytycoon.gif",
+      "tools": [
+        "C#",
+        "Unity",
+        "Asesprite"
+      ]
+    },
+    {
+      "title": "Game Of Life",
+      "category": [
+        "Other",
+        "2022"
+      ],
+      "description": "This is a simple implementation of the Game Of Life. It is a Rust application that uses the Winit library. It is a simple project that I made to learn Rust and Winit.",
+      "image": "images/projects/gameoflife.gif",
+      "tools": [
+        "Rust",
+        "Winit"
+      ]
+    },
+    {
+      "title": "Speed Devour",
+      "category": [
+        "Game",
+        "2021"
+      ],
+      "description": "This is a Unity project that I made to learn about FPS mechanics, the new Unity multiplayer system and procedural levels. It is a simple game that I made in a few days.",
+      "image": "images/projects/speeddevour.gif",
+      "tools": [
+        "C#",
+        "Unity",
+        "Blender"
+      ]
+    },
+    {
+      "title": "Glide With Holes",
+      "category": [
+        "Game",
+        "2020"
+      ],
+      "description": "One of my first game. I made it for a game jam. The goal is to use the black holes to accelerate and finish the level the fastest. I made all the assets and code of the game.",
+      "image": "images/projects/glidewithholes.gif",
+      "tools": [
+        "C#",
+        "Unity",
+        "Blender"
+      ]
+    }
+  ],
+  "skills": {
+    "Software Development": [
+      {
+        "name": "Java",
+        "image": "images/skills/java.png"
+      },
+      {
+        "name": "C",
+        "image": "images/skills/c.png"
+      },
+      {
+        "name": "C#",
+        "image": "images/skills/csharp.png"
+      },
+      {
+        "name": "C++",
+        "image": "images/skills/cpp.png"
+      },
+      {
+        "name": "Rust",
+        "image": "images/skills/rust.png"
+      },
+      {
+        "name": "Python",
+        "image": "images/skills/python.png"
+      },
+      {
+        "name": "SQL",
+        "image": "images/skills/sql.png"
+      },
+      {
+        "name": "Bash",
+        "image": "images/skills/bash.png"
+      },
+      {
+        "name": "Git",
+        "image": "images/skills/git.png"
+      }
+    ],
+    "Computer Graphics": [
+      {
+        "name": "OpenGL",
+        "image": "images/skills/opengl.png"
+      },
+      {
+        "name": "Bevy",
+        "image": "images/skills/bevy.png"
+      },
+      {
+        "name": "Unity",
+        "image": "images/skills/unity.png"
+      },
+      {
+        "name": "ThreeJS",
+        "image": "images/skills/threejs.png"
+      },
+      {
+        "name": "Blender",
+        "image": "images/skills/blender.png"
+      },
+      {
+        "name": "Asesprite",
+        "image": "images/skills/asesprite.png"
+      }
+    ],
+    "Front-End": [
+      {
+        "name": "HTML",
+        "image": "images/skills/html.png"
+      },
+      {
+        "name": "CSS",
+        "image": "images/skills/css.png"
+      },
+      {
+        "name": "Tailwind",
+        "image": "images/skills/tailwind.png"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "images/skills/bootstrap.png"
+      },
+      {
+        "name": "JS",
+        "image": "images/skills/javascript.png"
+      },
+      {
+        "name": "ThreeJS",
+        "image": "images/skills/threejs.png"
+      },
+      {
+        "name": "ChartJS",
+        "image": "images/skills/chartjs.png"
+      },
+      {
+        "name": "Git",
+        "image": "images/skills/git.png"
+      }
+    ],
+    "Back-End": [
+      {
+        "name": "NodeJS",
+        "image": "images/skills/nodejs.png"
+      },
+      {
+        "name": "ExpressJS",
+        "image": "images/skills/express.png"
+      },
+      {
+        "name": "SQL",
+        "image": "images/skills/sql.png"
+      },
+      {
+        "name": "WebSocket",
+        "image": "images/skills/websocket.png"
+      },
+      {
+        "name": "DiscordJS",
+        "image": "images/skills/discordjs.png"
+      },
+      {
+        "name": "Git",
+        "image": "images/skills/git.png"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "title": "ASTEP / Partenaire scientifique",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.",
+      "category": [
+        "School",
+        "2023"
+      ],
+      "image": "images/experiences/partenaires-scientifiques.png"
+    },
+    {
+      "title": "Fiverr",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus accumsan tortor posuere ac ut consequat. Scelerisque purus semper eget duis at tellus at.",
+      "category": [
+        "Freelance",
+        "2022"
+      ],
+      "image": "images/experiences/fiverr.png"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Email",
+      "link": "mailto:jeanloup.mellion@proton.me",
+      "image": "images/contacts/mail.png"
+    },
+    {
+      "name": "Discord",
+      "link": "https://discord.com/users/378927976991031296",
+      "image": "images/contacts/discord.png"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/JLsquare",
+      "image": "images/contacts/github.png"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/jean-loup-mellion-82a53b261",
+      "image": "images/contacts/linkedin.png"
+    }
+  ]
+}
