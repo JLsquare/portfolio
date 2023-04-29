@@ -37,6 +37,7 @@ npm install
 4.  Build the website:
 
 ```sh
+cd client
 npm run build
 ```
 
