@@ -317,6 +317,14 @@
     ],
     "Front-End": [
       {
+        "name": "Vue.js",
+        "image": "images/skills/vue.png"
+      },
+      {
+        "name": "Vite",
+        "image": "images/skills/vite.png"
+      },
+      {
         "name": "HTML",
         "image": "images/skills/html.png"
       },
