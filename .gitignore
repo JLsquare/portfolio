@@ -28,3 +28,4 @@ coverage
 *.sw?
 .idea/modules.xml
 .idea/JLsquare.github.io.iml
+*.pem

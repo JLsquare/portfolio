@@ -1,12 +1,12 @@
 <template>
     <div id="home" style="background: radial-gradient(circle at center bottom, #0f172a, #000000); position: relative">
         <Particles
-                id="tsparticles"
-                :particlesInit="particlesInit"
-                :particlesLoaded="particlesLoaded"
-                url="http://localhost:3000/particles.json"
+            id="tsparticles"
+            :particlesInit="particlesInit"
+            :particlesLoaded="particlesLoaded"
+            :url="particlesUrl"
         />
-        <nav class="fixed top-0 right-0 left-0 z-50 flex items-center justify-end px-8 py-4 bg-transparent drop-shadow-[0_0_32px_rgb(0,0,0,0.5)]">
+        <nav class="fixed top-0 right-0 left-0 z-50 flex items-center justify-end px-8 py-4 bg-cyan-950 bg-opacity-25 drop-shadow-[0_0_32px_rgb(0,0,0,0.5)]">
             <ul class="flex items-center">
                 <li class="ml-12">
                     <a @click="scrollTo('home')" class="text-white text-xl hover:text-cyan-400 font-bold">Home</a>
@@ -83,6 +83,11 @@ export default {
         name: String,
         title: String,
         description: {}
-    }
+    },
+    computed: {
+        particlesUrl() {
+          return window.location.origin + '/particles.json';
+        }
+    },
 }
 </script>
