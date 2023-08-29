@@ -35,6 +35,20 @@
   ],
   "projects": [
     {
+      "title": "Place INFO",
+      "category": [
+        "Web",
+        "2023"
+      ],
+      "description": "A lightweight r/place clone built with Rust for my university. Demo: https://place.jlsquare.fr/",
+      "image": "images/projects/placeinfo.png",
+      "tools": [
+        "Rust",
+        "WebSocket",
+        "SQLite"
+      ]
+    },
+    {
       "title": "vox.place",
       "category": [
         "Web",
