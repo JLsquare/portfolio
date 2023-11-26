@@ -1,0 +1,499 @@
+{
+  "infos": {
+    "name": "Jean-Loup Mellion.",
+    "title": "I'm an IT Student.",
+    "description": {
+      "firstPart": "I'm an 19-year-old French student at the University Institute of Technology",
+      "linkText": "IUT Vannes",
+      "link": "https://www.iutvannes.fr/",
+      "secondPart": "and I study computer science. I'm in my second year of a three-year degree."
+    },
+    "about": "I am a computer science student at IUT Vannes, passionate about various fields in computer science, including game development, web development, simulations, and cybersecurity. I have acquired a strong knowledge base through my education and self-taught experiments."
+  },
+  "projectButtons": [
+    {
+      "mode": "All",
+      "label": "All"
+    },
+    {
+      "mode": "Web",
+      "label": "Web"
+    },
+    {
+      "mode": "Game",
+      "label": "Games"
+    },
+    {
+      "mode": "School",
+      "label": "School"
+    },
+    {
+      "mode": "IA",
+      "label": "AI"
+    },
+    {
+      "mode": "Other",
+      "label": "Others"
+    }
+  ],
+  "projects": [
+    {
+      "title": "QTQuickDetect",
+      "category": [
+        "IA",
+        "School",
+        "2023"
+      ],
+      "description": "This is a project that I made for my school. It is a PyQT application that allow to detect objects in images, videos, and livestreams. It use the YOLOv8 model with PyTorch. It work in projects, where you can save the configurations, the media, and the results.",
+      "image": "images/projects/qtquickdetect.mp4",
+      "tools": [
+        "Python",
+        "PyQT",
+        "PyTorch"
+      ]
+    },
+    {
+      "title": "SportTrack",
+      "category": [
+        "School",
+        "Web",
+        "2023"
+      ],
+      "description": "This is a website that I made for my school project. It is a website that allow the users to track their sport activities, import their data in JSON files, and configure their profile. It was made 2 times, the first time with PHP, and the second time with NodeJS.",
+      "image": "images/projects/sporttrack.mp4",
+      "tools": [
+        "HTML",
+        "Bootstrap",
+        "SQLite",
+        "PHP",
+        "NodeJS"
+      ]
+    },
+    {
+      "title": "Place INFO",
+      "category": [
+        "Web",
+        "2023"
+      ],
+      "description": "A lightweight r/place clone built with Rust for my university. Demo: https://place.jlsquare.fr/",
+      "image": "images/projects/placeinfo.png",
+      "tools": [
+        "Rust",
+        "WebSocket",
+        "SQLite"
+      ],
+      "github": "https://github.com/JLsquare/place-info"
+    },
+    {
+      "title": "vox.place",
+      "category": [
+        "Web",
+        "2023"
+      ],
+      "description": "vox.place is an website made with Nuxt 3 for the front and Rust for the backend, it is a \"social network\" to share voxels, and it also have an replication of r/place but with voxels. It also have an editor, it is currently in active development.",
+      "image": "images/projects/voxplace.mp4",
+      "tools": [
+        "Nuxt 3",
+        "Vue 3",
+        "Rust",
+        "ThreeJS",
+        "Tailwind CSS",
+        "SQLite"
+      ]
+    },
+    {
+      "title": "24h Info - IUT Lyon",
+      "category": [
+        "Other",
+        "School",
+        "2023"
+      ],
+      "description": "My team and I participated in the '24h Info' competition in Lyon that year, competing against numerous other universities. There were three categories: Algo & Prog (focusing on optimization, among other topics), Web (where we had to create a complete website application), and Cyber-Security (featuring a standard CTF). We won the first place.",
+      "image": "images/projects/24hinfo.jpg",
+      "tools": [
+        "Cyber-security",
+        "Web",
+        "Algo-Prog"
+      ]
+    },
+    {
+      "title": "The bikes of Nantes",
+      "category": [
+        "School",
+        "2023"
+      ],
+      "description": "Soon, this is my final year project for my school. It is a JavaFx application that allow Nantes Métropole to get statistics about the bikes of Nantes. It has a SQL database and can be alimented with csv files.",
+      "image": "images/projects/bikenantes.mp4",
+      "tools": [
+        "Java",
+        "JavaFx",
+        "MySQL",
+        "Python"
+      ]
+    },
+    {
+      "title": "Voxel Engine",
+      "category": [
+        "Game",
+        "Other",
+        "2023"
+      ],
+      "description": "This is a voxel engine that I made to learn rust and voxel engines. It is a simple engine that can render a world with a chunk system. It use a DDA algorithm to render the voxels (no bevy). I'm currently working on porting the rendering to the GPU.",
+      "image": "images/projects/voxel.mp4",
+      "tools": [
+        "Rust"
+      ]
+    },
+    {
+      "title": "Portfolio",
+      "category": [
+        "Web",
+        "School",
+        "2023"
+      ],
+      "description": "This is my portfolio website. It is a single-page website that I built from scratch using HTML, TailwindCSS, and JavaScript. I made it to be fully customizable with a JSON file. I ported it recently to VueJS to make it easier to maintain.",
+      "image": "images/projects/portfolio.mp4",
+      "tools": [
+        "VueJS",
+        "Tailwind CSS",
+        "NodeJS"
+      ]
+    },
+    {
+      "title": "Chat App",
+      "category": [
+        "Web",
+        "2023"
+      ],
+      "description": "This is a chat app that i'm currently working on with a friend. It doesn't have a name for now. It is inspired by Discord and Miro. It is a VueJS application with a NodeJS and Rust backend. I work on it when I have some free time.",
+      "image": "images/projects/chatapp.mp4",
+      "tools": [
+        "VueJS",
+        "Tailwind CSS",
+        "NodeJS",
+        "Rust"
+      ]
+    },
+    {
+      "title": "Galaxy Simulator",
+      "category": [
+        "Other",
+        "2023"
+      ],
+      "description": "This is a simple simulator of a galaxy. It is a Rust application that uses the Bevy engine. It is a simple project that I made to learn Rust and Bevy. I ported it to Unity to use compute shaders",
+      "image": "images/projects/galaxy.mp4",
+      "tools": [
+        "Rust",
+        "Bevy",
+        "Unity"
+      ]
+    },
+    {
+      "title": "CTF",
+      "category": [
+        "Other",
+        "2022"
+      ],
+      "description": "In december, I participated in a CTF (Capture The Flag) competition. I solved almost all the challenges and got the first place. I will post the write-ups of the challenges in the future.",
+      "image": "images/projects/ctf.png",
+      "tools": [
+        "Python", "JS", "C++", "Assembly", "Cyber-security"
+      ]
+    },
+    {
+      "title": "Grundy",
+      "category": [
+        "School",
+        "2022"
+      ],
+      "description": "This is a project that I made for my school. It is a Java application that allows to play the game of Grundy. It has a bot that can play against you, the complexity is the exponential complexity of the game that i solved with the Sprague-Grundy theorem, allowing thousands of matches to be used.",
+      "image": "images/projects/grundy.mp4",
+      "tools": [
+        "Java"
+      ]
+    },
+    {
+      "title": "SimCoBot",
+      "category": [
+        "Other",
+        "2023"
+      ],
+      "description": "This is a Discord bot that I made to help the players of the game SimCompanies. It allow the players to get information about companies, the market, and the economy to help them to make the best decisions",
+      "image": "images/projects/simcobot.mp4",
+      "tools": [
+        "JS",
+        "NodeJS",
+        "DiscordJS",
+        "ChartJS"
+      ]
+    },
+    {
+      "title": "Babyfoot.io",
+      "category": [
+        "Web",
+        "Game",
+        "2022"
+      ],
+      "description": "This is a tiny project that I made to learn ThreeJS and WebSockets. It is a multiplayer game that I made with my friends for fun. I will soon add a matchmaking system and other features.",
+      "image": "images/projects/babyfootio.mp4",
+      "tools": [
+        "HTML",
+        "ThreeJS",
+        "NodeJS",
+        "WebSocket",
+        "Blender"
+      ]
+    },
+    {
+      "title": "Energy Tycoon",
+      "category": [
+        "Game",
+        "2022"
+      ],
+      "description": "This is a game that I made in my free time. The islands are procedurally generated and the game is a mix between a tycoon and a strategy game. I made all the assets and code of the game. I will continue to add features in the future.",
+      "image": "images/projects/energytycoon.mp4",
+      "tools": [
+        "C#",
+        "Unity",
+        "Asesprite"
+      ]
+    },
+    {
+      "title": "Game Of Life",
+      "category": [
+        "Other",
+        "2022"
+      ],
+      "description": "This is a simple implementation of the Game Of Life. It is a Rust application that uses the Winit library. It is a simple project that I made to learn Rust and Winit.",
+      "image": "images/projects/gameoflife.mp4",
+      "tools": [
+        "Rust",
+        "Winit"
+      ]
+    },
+    {
+      "title": "Speed Devour",
+      "category": [
+        "Game",
+        "2021"
+      ],
+      "description": "This is a Unity project that I made to learn about FPS mechanics, the new Unity multiplayer system and procedural levels. It is a simple game that I made in a few days.",
+      "image": "images/projects/speeddevour.mp4",
+      "tools": [
+        "C#",
+        "Unity",
+        "Blender"
+      ]
+    },
+    {
+      "title": "Glide With Holes",
+      "category": [
+        "Game",
+        "2020"
+      ],
+      "description": "One of my first game. I made it for a game jam. The goal is to use the black holes to accelerate and finish the level the fastest. I made all the assets and code of the game.",
+      "image": "images/projects/glidewithholes.mp4",
+      "tools": [
+        "C#",
+        "Unity",
+        "Blender"
+      ]
+    }
+  ],
+  "skills": {
+    "Software Development": [
+      {
+        "name": "Java",
+        "image": "images/skills/java.png"
+      },
+      {
+        "name": "C",
+        "image": "images/skills/c.png"
+      },
+      {
+        "name": "C#",
+        "image": "images/skills/csharp.png"
+      },
+      {
+        "name": "C++",
+        "image": "images/skills/cpp.png"
+      },
+      {
+        "name": "Rust",
+        "image": "images/skills/rust.png"
+      },
+      {
+        "name": "Python",
+        "image": "images/skills/python.png"
+      },
+      {
+        "name": "SQL",
+        "image": "images/skills/sql.png"
+      },
+      {
+        "name": "Bash",
+        "image": "images/skills/bash.png"
+      },
+      {
+        "name": "Git",
+        "image": "images/skills/git.png"
+      }
+    ],
+    "Computer Graphics": [
+      {
+        "name": "OpenGL",
+        "image": "images/skills/opengl.png"
+      },
+      {
+        "name": "Bevy",
+        "image": "images/skills/bevy.png"
+      },
+      {
+        "name": "Unity",
+        "image": "images/skills/unity.png"
+      },
+      {
+        "name": "ThreeJS",
+        "image": "images/skills/threejs.png"
+      },
+      {
+        "name": "Blender",
+        "image": "images/skills/blender.png"
+      },
+      {
+        "name": "Asesprite",
+        "image": "images/skills/asesprite.png"
+      }
+    ],
+    "Front-End": [
+      {
+        "name": "Vue.js",
+        "image": "images/skills/vue.png"
+      },
+      {
+        "name": "Nuxt.js",
+        "image": "images/skills/nuxt.png"
+      },
+      {
+        "name": "Vite",
+        "image": "images/skills/vite.png"
+      },
+      {
+        "name": "HTML",
+        "image": "images/skills/html.png"
+      },
+      {
+        "name": "CSS",
+        "image": "images/skills/css.png"
+      },
+      {
+        "name": "Tailwind",
+        "image": "images/skills/tailwind.png"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "images/skills/bootstrap.png"
+      },
+      {
+        "name": "JS",
+        "image": "images/skills/javascript.png"
+      },
+      {
+        "name": "ThreeJS",
+        "image": "images/skills/threejs.png"
+      },
+      {
+        "name": "ChartJS",
+        "image": "images/skills/chartjs.png"
+      },
+      {
+        "name": "JavaFX",
+        "image": "images/skills/javafx.png"
+      },
+      {
+        "name": "Git",
+        "image": "images/skills/git.png"
+      }
+    ],
+    "Back-End": [
+      {
+        "name": "NodeJS",
+        "image": "images/skills/nodejs.png"
+      },
+      {
+        "name": "ExpressJS",
+        "image": "images/skills/express.png"
+      },
+      {
+        "name": "WebSocket",
+        "image": "images/skills/websocket.png"
+      },
+      {
+        "name": "DiscordJS",
+        "image": "images/skills/discordjs.png"
+      },
+      {
+        "name": "Git",
+        "image": "images/skills/git.png"
+      },
+      {
+        "name": "OracleSQL",
+        "image": "images/skills/oraclesql.png"
+      },
+      {
+        "name": "MySQL",
+        "image": "images/skills/mysql.png"
+      },
+      {
+        "name": "SQLite",
+        "image": "images/skills/sqlite.png"
+      },
+      {
+        "name": "Rust",
+        "image": "images/skills/rust.png"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "title": "ASTEP / Partenaire scientifique",
+      "description": "During my first year at the university, I participated in the ASTEP Project alongside two classmates. We conducted several computer science and robotics lessons at a primary school.",
+      "category": [
+        "School",
+        "2023"
+      ],
+      "image": "images/experiences/partenaires-scientifiques.png"
+    },
+    {
+      "title": "Fiverr",
+      "description": "I ran a Fiverr account specializing in freelance Unity projects. I collaborated with various clients, providing game assets, fixing scripts, and assisting in game development.",
+      "category": [
+        "Freelance",
+        "2022"
+      ],
+      "image": "images/experiences/fiverr.png"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Email",
+      "link": "mailto:jeanloup.mellion@proton.me",
+      "image": "images/contacts/mail.png"
+    },
+    {
+      "name": "Discord",
+      "link": "https://discord.com/users/378927976991031296",
+      "image": "images/contacts/discord.png"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/JLsquare",
+      "image": "images/contacts/github.png"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/jean-loup-mellion-82a53b261",
+      "image": "images/contacts/linkedin.png"
+    }
+  ]
+}
